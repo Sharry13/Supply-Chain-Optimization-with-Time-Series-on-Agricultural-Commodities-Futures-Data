@@ -71,6 +71,8 @@ Future iterations of the project may involve:
 
 Feature engineering for improved model performance. Hyperparameter tuning for optimizing algorithms. Integration of external data factors like economic indicators, waether fluctuations etc that contribute to the agricultural chain, data sources for enhanced predictive capabilities.
 
-# Acknowledgments This project is developed as part of [Msc Data Science] course at NMIMS University.
+# Acknowledgments 
+
+This project is developed as part of [Msc Data Science] course at NMIMS University.
 
 Feel free to adjust the sections, add more details, or modify as needed to fit your specific project details and preferences
